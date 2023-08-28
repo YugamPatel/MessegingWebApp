@@ -41,6 +41,9 @@ Got a joke better than mine? Prove it! Fork it, change it, and submit a PR!
 
 ---
 
-### Made by Yugam - Making the Web a happier place, one message at a time!
+## Made by Yugam 😎👨‍💻
+
+Hey there, I'm Yugam—the one-man circus behind this MessagingWebApp! I'm a coding samurai 🥷. When I'm not building this digital playground where i can spill all your secrets (don't worry, you're ultra-secure here 🛡️), you'll find me doing stand-up for my pet fish 🐟 (he's a great audience, never interrupts with questions). So go on, use the web-app and have some fun—just don't break anything or you'll awaken the coding samurai in me! 🚀
+
 
 
