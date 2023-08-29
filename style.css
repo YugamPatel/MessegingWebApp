@@ -5,7 +5,7 @@ body {
   }
   
   header {
-    background-color: #23013c;
+    background-color: #52025f;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(43, 42, 42);
+    background-color: rgb(11, 0, 47);
   }
   
   .chat-window {
@@ -24,7 +24,7 @@ body {
     background-color: #bcb0b0;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0px 0px 30px rgb(0, 255, 157);
+    box-shadow: 0px 0px 40px rgb(0, 255, 157);
   }
   
   .chat-area {
@@ -71,4 +71,33 @@ body {
   
   #send-button:hover {
     background-color: #0056b3;
+  }
+
+  .copyright {
+    position: relative;
+    padding: 10px;
+    bottom: 0;
+    font-size: 16px;
+    color: #f2f2f2;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+  }
+  
+  .fa-heart {
+    font-size: 20px;
+    color: #fd0606;
+    animation: beat 1s infinite alternate; /* 1s duration, infinite repetition, and alternate direction */
+  }
+  
+  @keyframes beat {
+    0% {
+      transform: scale(1); /* start at normal size */
+    }
+    50% {
+      transform: scale(1.1); /* scale up a bit */
+    }
+    100% {
+      transform: scale(1); /* return to normal size */
+    }
   }
